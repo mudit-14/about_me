@@ -1,0 +1,27 @@
+* {
+    font-family: 'Pixelify Sans', sans-serif;
+    font-size: 24px;
+    color: #00FF00; /* Green */
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    font-size: xx-large;
+}
+
+img{
+    float: left;
+    height: 150px;
+    padding: 25px;
+    border-radius: 50%;
+}
+
+h2{
+    font-weight: bolder;
+}
+
+#study_img{
+    float: right;
+    margin-right: 50%;
+}
